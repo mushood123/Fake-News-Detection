@@ -1,14 +1,3 @@
-Here's a well-structured **README.md** for your **Fake News Detection** project:  
-
----
-
-```markdown
-# 📰 Fake News Detection
-
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/Fake-News-Detection?color=blue&style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/Fake-News-Detection?color=green&style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/your-username/Fake-News-Detection?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/Fake-News-Detection?color=red&style=for-the-badge)
 
 ## 📌 Overview
 
