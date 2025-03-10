@@ -169,4 +169,3 @@ model = loaded_objects['model']
 ---
 
 ⭐ **Star this repo** if you found it useful! 🚀  
-```
