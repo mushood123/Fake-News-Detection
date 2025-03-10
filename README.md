@@ -33,7 +33,9 @@ It leverages **Natural Language Processing (NLP)** techniques to analyze the tex
 
 The model is trained on two datasets:
 - 📌 **Fake News Dataset** (`Fake.csv`)
+- https://drive.google.com/file/d/1XJ3zfSKk4SlB_Z2ZOHdTa8RoslilBqiP/view?usp=sharing
 - 📌 **Real News Dataset** (`True.csv`)
+- https://drive.google.com/file/d/1SZvg15K3mj1YdtT5ibwqEN5gjC_cfGu-/view?usp=sharing
 
 **Dataset Structure**:
 - `title`: Headline of the news article.
